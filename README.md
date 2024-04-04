@@ -13,6 +13,6 @@ My model's accuracy was a 73% which was really close to the target of 75%.
 To get to a higher accuracy, I would probably need to train my model a few more times to reach the target of 75%.
 # Summary:
 The accuracy was off the target by 2%. Therefore, I failed. To meet the target goal, I could keep trainig data in order to meet the target goal of `75%`. If the results keep being similar of an accuracy below 75% and around 73%, the model might be needed to be modified.
-## Challenges
+# Challenges
 I encounter many challenges in the Compile, Train and Evaluate section. I overcame them by asking for help to ChatGDP, looking at previous class recordings, and going back to class activities.
 The first challenge I enounter was figuring out the hidden notes like where was a great place to separe the data. I figured it was best between where there was a noticeable gap in the amount.  The second challenge was evaluating the model using the test data. My code seem right, but there was still an issue. Consequently, I looked at Class Activieties, and my work seem right. To fix my error, I just refreshed my Google Colab Notebook. The last challenge I encounter was figuring out how to export the model to HDF5 file. I looked at class activies, but it seemed like we had just imported HDF5, so I went over to ChatGDP and received help on how to import it. 
